@@ -41,7 +41,7 @@ Have port 5001 and 5000 unused
 https://localhost:5001/api/User/string
 
 ### Warnings
-There are no Students in the database and only one User:
+There are no Students in the database and only are one User:
 ```cs
 {
 	Name: string
